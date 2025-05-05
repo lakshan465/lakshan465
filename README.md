@@ -39,8 +39,8 @@
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/lakshan465](linkedin.com/in/lakshan2513)
-- GitHub: [github.com/lakshan465](https://github.com/lakshan465)
+- LinkedIn: https://linkedin.com/in/lakshan2513
+- GitHub: https://github.com/lakshan465
 - Email: lakshanugc22@gmail.com
 
 ---
