@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Tech Stack
-- **Languages:** Java, JavaScript, TypeScript, Python, SQL
+- **Languages:** Java, JavaScript, MySQL
 - **Frontend:** React.js, Tailwind CSS, HTML5, CSS3
 - **Backend:** Spring Boot, REST APIs, JWT Authentication
 - **DevOps & Cloud:** Docker, GitHub Actions, AWS EC2, S3
@@ -39,9 +39,9 @@
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/lakshan465](https://linkedin.com/in/lakshan465)
+- LinkedIn: [linkedin.com/in/lakshan465](linkedin.com/in/lakshan2513)
 - GitHub: [github.com/lakshan465](https://github.com/lakshan465)
-- Email: lakshan465@example.com
+- Email: lakshanugc22@gmail.com
 
 ---
 
