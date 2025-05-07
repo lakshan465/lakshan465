@@ -1,10 +1,3 @@
-## 👋 Hi there! I'm Lakshan
-
-🎓 Computer Science Undergraduate at the University of Ruhuna  
-💻 Passionate about Full-Stack Development | Cloud | DevOps  
-📍 Currently building secure, scalable web apps with Java Spring Boot & React
-
----
 
 ## 👋 Hi there! I'm Lakshan
 
